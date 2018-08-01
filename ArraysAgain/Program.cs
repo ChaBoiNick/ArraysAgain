@@ -17,7 +17,8 @@ namespace ArraysAgain
             numbers[3] = 16;
             numbers[4] = 23;
 
-            Console.WriteLine(numbers[2]);
+            //Console.WriteLine(numbers[2]);
+            Console.WriteLine(numbers.Length); //length of the array
             Console.ReadLine();
         }
     }
